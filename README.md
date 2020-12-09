@@ -1,6 +1,6 @@
 # Layer Glitch
 
-![Sample](image.jpg?raw=true "Title")
+![Sample](image.png?raw=true "Title")
 
 ## Usage
 
